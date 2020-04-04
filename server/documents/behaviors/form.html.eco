@@ -476,7 +476,7 @@ type        : 'UI Behavior'
         <tbody>
           <tr>
             <td class="four wide">minLength</td>
-            <td>A field is less than a min length</td>
+            <td>A field is al least a min length</td>
             <td class="six wide"><code>minLength[5]</code></td>
           </tr>
           <tr>
@@ -486,7 +486,7 @@ type        : 'UI Behavior'
           </tr>
           <tr>
             <td>maxLength</td>
-            <td>A field is less than a max length</td>
+            <td>A field is at most a max length</td>
             <td><code>maxLength[50]</code></td>
           </tr>
         </tbody>
